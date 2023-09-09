@@ -1,1 +1,3 @@
 # QUIZ-APPLICATION
+# OutPut
+![quizapp](https://github.com/TULASI-310/QUIZ-APPLICATION/assets/113433795/e5140965-66d1-4e6a-b3a3-13e32d51de52)
